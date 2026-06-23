@@ -1,0 +1,27 @@
+# Materiali privati e non versionati
+_notes/
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Documentazione
+*.docx
+*.doc
+*.pdf
+
+# Frontend
+node_modules/
+dist/
+.cache/
+
+# File audio e binari pesanti
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.aif
+*.aiff
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
